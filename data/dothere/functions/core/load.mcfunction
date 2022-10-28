@@ -1,0 +1,1 @@
+execute unless data storage ajdustpos {version:"1"} run function dothere:core/init
